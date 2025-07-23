@@ -11,6 +11,6 @@ A high-quality, fast and easy-to-use PDF to image conversion tool / ابزاری
 - 🔒 **No file size limits** / بدون محدودیت اندازه فایل
 
 ## How to Use / روش استفاده
-Download the program file from here : ([Download| دانلود](https://github.com/alireza-turk-oglan/Convert-PDF-To-Image/releases/download/v.1.0/Convert.PDF.To.Image.exe)) : فایل برنامه رو از اینجا دانلود کنید
+Download the program file from here : ([Download | دانلود](https://github.com/alireza-turk-oglan/Convert-PDF-To-Image/releases/download/v.1.0/Convert.PDF.To.Image.exe)) : فایل برنامه رو از اینجا دانلود کنید
 1. Drag and drop your PDF file / فایل پی‌دی‌اف خود را بکشید و رها کنید
 2. Click convert! / تبدیل کنید!
